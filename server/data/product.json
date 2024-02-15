@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Belt",
+    "name": "Hermes Belt",
+    "imgUrl": "https://i.pinimg.com/564x/da/73/38/da7338f3339e54febd403c66772d99d9.jpg",
+    "description": "Hermes Belt",
+    "price": 35000000,
+    "stock": 60,
+    "userId": 1,
+    "brandId": 1
+  },
+  {
+    "category": "Handbag",
+    "name": "Louis Vuitton Handbag",
+    "imgUrl": "https://i.pinimg.com/564x/13/e9/6d/13e96dc96358b430e1dbde7143022dda.jpg",
+    "description": "Louis Vuitton Handbag",
+    "price": 75000000,
+    "stock": 10,
+    "userId": 2,
+    "brandId": 2
+  },
+  {
+    "category": "Dress",
+    "name": "Prada Dress",
+    "imgUrl": "https://i.pinimg.com/564x/ca/11/f9/ca11f9da33844b8410e993e6adaa4527.jpg",
+    "description": "Prada Dress",
+    "price": 55000000,
+    "stock": 20,
+    "userId": 3,
+    "brandId": 3
+  }
+]

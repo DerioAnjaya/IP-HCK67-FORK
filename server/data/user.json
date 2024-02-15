@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Kaka",
+    "gender": "Female",
+    "email": "Admin1@mail.com",
+    "password": "Admin1",
+    "role": "Admin",
+    "phoneNumber": "082211223344"
+  },
+  {
+    "username": "Kiki",
+    "gender": "Female",
+    "email": "Admin2@mail.com",
+    "password": "Admin2",
+    "role": "Admin",
+    "phoneNumber": "082211223355"
+  },
+  {
+    "username": "Keke",
+    "gender": "Male",
+    "email": "Staff1@mail.com",
+    "password": "Staff1",
+    "role": "Staff",
+    "phoneNumber": "082211223366"
+  }
+]

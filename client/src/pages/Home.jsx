@@ -16,7 +16,7 @@ function Home() {
     try {
       const {data} = await axios({
         method: "GET",
-        url: "http://localhost:3000/publics",
+        url: "http://localhost:3000/publics/pub",
       })
       setProduct(data)
     } catch (error) {
